@@ -62,7 +62,7 @@ public class SecretQuestionAuthenticatorFactory implements AuthenticatorFactory,
     public boolean isUserSetupAllowed() {
         return true;
     }
-
+   
     @Override
     public boolean isConfigurable() {
         return true;
